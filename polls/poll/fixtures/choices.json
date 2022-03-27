@@ -1,0 +1,29 @@
+[
+    {
+        "model": "poll.choice",
+        "pk": 1,
+        "fields": {
+            "question": 1,
+            "choice_text": "Pizza",
+            "votes": 4
+        }
+    },
+    {
+        "model": "poll.choice",
+        "pk": 2,
+        "fields": {
+            "question": 1,
+            "choice_text": "French fries",
+            "votes": 1
+        }
+    },
+    {
+        "model": "poll.choice",
+        "pk": 3,
+        "fields": {
+            "question": 1,
+            "choice_text": "Ice cream",
+            "votes": 2
+        }
+    }
+]

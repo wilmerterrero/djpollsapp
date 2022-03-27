@@ -1,0 +1,10 @@
+[
+    {
+        "model": "poll.question",
+        "pk": 1,
+        "fields": {
+            "question_text": "What is your favorite meal?",
+            "pub_date": "2022-03-26T19:09:15Z"
+        }
+    }
+]
