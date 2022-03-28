@@ -8,6 +8,26 @@
 
 ## Commands learned
 
+### Project schafolding
+
+```bash
+pipenv shell
+```
+
+Create an a virtual environment (venv) in the root directory.
+
+```bash
+pipenv install django
+```
+
+Install django framework in the venv
+
+```bash
+django-admin startproject project_name
+```
+
+Creates a new project in the root directory.
+
 ### Apps schafolding
 
 ```bash
